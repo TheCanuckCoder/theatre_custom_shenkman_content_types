@@ -970,4 +970,4 @@ features[views_view][] = what_s_on
 features[views_view][] = what_s_on_slideshow
 features_exclude[dependencies][file] = file
 features_exclude[dependencies][file_entity] = file_entity
-project path = profiles/ct_sac/modules/features
+project path = profiles/shenkman_profile/modules/features

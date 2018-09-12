@@ -2697,7 +2697,7 @@ email@ottawa.ca
   $handler->display->display_options['fields']['nothing']['field'] = 'nothing';
   $handler->display->display_options['fields']['nothing']['label'] = '';
   $handler->display->display_options['fields']['nothing']['exclude'] = TRUE;
-  $handler->display->display_options['fields']['nothing']['alter']['text'] = '<a href="http://clients.bv02.com/ct/file/add">Attach a file</a>';
+  $handler->display->display_options['fields']['nothing']['alter']['text'] = '<a href="/file/add">Attach a file</a>';
   $handler->display->display_options['fields']['nothing']['element_label_colon'] = FALSE;
   /* Field: Content: Published */
   $handler->display->display_options['fields']['status']['id'] = 'status';
